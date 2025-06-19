@@ -53,24 +53,28 @@ Alternatively, you can also download the latest `.zip` file in the [release](./r
 
 ### Folder structure
 
-```ps
+```.sh
 ├───media
 │   ├───images
-│   │   ├───converted - Contains the converted '.rgb565' images & textures.
-│   │   └───source - Contains the raw, unconverted files.
+│   │   ├───converted - Contains the converted (.rgb565) images & textures.
+│   │   └───source - Contains the unconverted (.png & .jpeg) files.
 │   └───sounds
-│       ├───converted - Contains the converted '.bcwav' or '.bcstm' files used in the theme.
+│       ├───converted - Contains the converted (.bcwav & .bcstm) files used in the theme.
 │       └───source - Contains the source (.wav) sound files used prior to conversion.
 └───release - Contains all .zip exports of this theme.
 ```
 
 ## Palette
 
-| Color                       | Hex value                                            | Used as                       |
-| --------------------------- | ---------------------------------------------------- | ----------------------------- |
-| Democracy Yellow            | <span style="color:#ffb400">example</span> - #ffb400 | Primary colour                |
-| Dark Grey                   | <span style="color:#222323">example</span> - #222323 | Secondary                     |
-| Light Grey                  | <span style="color:#686868">example</span> - #686868 | Accent                        |
-| Democracy Yellow but darker | <span style="color:#624500">HEX</span> - #624500     | In 'pressed' state of buttons |
+| Color                       | Hex value | Used as                       |
+| --------------------------- | --------- | ----------------------------- |
+| Democracy Yellow            | #FDE800   | Primary colour                |
+| Dark Grey                   | #222323   | Secondary                     |
+| Light Grey                  | #686868   | Accent                        |
+| Democracy Yellow but darker | #887d00   | In 'pressed' state of buttons |
 
 ## Tools & links
+
+- [Helldivers 2 quotes wiki](https://en.wikiquote.org/wiki/Helldivers_2)
+- [Kame Editor Wiki](https://gitlab.com/beelzy/kame-editor/-/wikis/home#prerequisites)
+- [Some Helldivers 2 sound clips](https://drive.google.com/drive/folders/1VT6HKNjR-lEG9xjQJB1dwWCI1ufyEFug)
